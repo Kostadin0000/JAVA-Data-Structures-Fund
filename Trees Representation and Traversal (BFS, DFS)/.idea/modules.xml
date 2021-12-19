@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab/Tree/Tree.iml" filepath="$PROJECT_DIR$/lab/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/Trees (BFS,DFS)/Trees (BFS,DFS).iml" filepath="$PROJECT_DIR$/exercise/Trees (BFS,DFS)/Trees (BFS,DFS).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Trees Representation and Traversal (BFS, DFS).iml" filepath="$PROJECT_DIR$/.idea/Trees Representation and Traversal (BFS, DFS).iml" />
+    </modules>
+  </component>
+</project>
